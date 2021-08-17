@@ -1,0 +1,6 @@
+com\pk\spring\jpa\mariadb\model\ScientificBook.class
+com\pk\spring\jpa\mariadb\repository\BookRepository.class
+com\pk\spring\jpa\mariadb\Application.class
+com\pk\spring\jpa\mariadb\model\Book.class
+com\pk\spring\jpa\mariadb\controller\BookController.class
+com\pk\spring\jpa\mariadb\repository\ScientificBookRepository.class
